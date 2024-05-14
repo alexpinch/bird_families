@@ -2,8 +2,10 @@
 
 ### Goals
 - [ ] Audubon Field Guide dataset (Common name, Latin name, Genus, Family, Order), as a CSV
-- [ ] Shell script that randomly choses 1, if readline matches common name
+- [ ] Guessing game as shell script
 - [ ] "Learn the bird families" HTML (Transcribe Audubon appendix)
+- [ ] Audubon dataset JSON version
+- [ ] Guessing game as HTML
 
 ### Pseudocode
 #!bin/bash  
