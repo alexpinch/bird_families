@@ -6,6 +6,7 @@
 - [ ] "Learn the bird families" HTML (Transcribe Audubon appendix)
 - [ ] Audubon dataset JSON version
 - [ ] Guessing game as HTML
+- [ ] Disclaimer, species, genus and family are as accurate as (audubon publish date), order as accurate as 2024.
 
 ### Pseudocode
 #!bin/bash  
