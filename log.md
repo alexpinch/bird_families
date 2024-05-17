@@ -10,3 +10,6 @@
 - [ ] Shiny app that hosts the R script
 - [ ] "Learn the bird families" section of shinyapp (Transcribe Audubon appendix)
 - [ ] Disclaimer on shinyapp, species, genus and family are as accurate as (audubon publish date), order as accurate as 2024.
+- [ ] Check if only species in it's genus and family
+- [ ] Autocomplete search bar in shinyapp version?
+- [ ] Draggable tree elements
