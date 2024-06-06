@@ -2,134 +2,139 @@ COMMON_NAME,LATIN_NAME,GENUS,FAMILY,ORDER,ALT_NAME
 Northern Fulmar,Fulmarus glacialis,Fulmarus,Procellariidae,,Fulmar
 Ross' Gull, Rhodostethia rosea,Rhodostethia,Laridae,,Ross Gull
 Sabine's Gull,Xema sabini,Xema,Laridae,,Sabine Gull
-Arctic Tern,Sterna paradisaea,Sterna,Laridae
-Skua,Catharacta skua,Catharacta,Stercorariidae
+Arctic Tern,Sterna paradisaea,Sterna,Laridae,,
+Skua,Catharacta skua,Catharacta,Stercorariidae,,
 Least Storm-Petrel,Halocyptena microsoma,Halocyptena,Hydrobatidae,,Least Petrel
-Pink-footed Shearwater,Puffinus creatopus,Puffinus,Procellariidae 
-Sooty Shearwater,Puffinus griseus,Puffinus,Procellariidae
-Manx Shearwater,Puffinus puffinus,Puffinus,Procellariidae
+Pink-footed Shearwater,Puffinus creatopus,Puffinus,Procellariidae ,,
+Sooty Shearwater,Puffinus griseus,Puffinus,Procellariidae,,
+Manx Shearwater,Puffinus puffinus,Puffinus,Procellariidae,,
 Flesh-footed Shearwater,Puffinus carneipes,Puffinus,Procellariidae,,Pale-footed Shearwater
 Short-tailed Shearwater,Puffinus tenuirostris,Puffinus,Procellariidae,,Slender-billed Shearwater
-New Zealand Shearwater,Puffinus bulleri,Puffinus,Procellariidae
-Laysan Albatross,Diomedea immutabilis,Diomedea,Diomedeidae
-Black-footed Albatross,Diomedea nigripes,Diomedea,Diomedeidae
-Thayer's Gull,Larus thayeri,Larus,Laridae
-Herring Gull, Larus argentatus,Larus,Laridae
-Glaucous-winged Gull,Larus glaucescens,Larus,Laridae
-Western Gull,Larus occidentalis,Larus,Laridae
-Mew Gull,Larus canus,Larus,Laridae
-Heermann's Gull,Larus heermanni,Larus,Laridae
-Least Tern,Sterna albifrons,Sterna,Laridae
-Royal Tern,Sterna maxima,Sterna,Laridae
-Elegant Tern,Sterna elegans,Sterna,Laridae
-Aleutian Tern,Sterna aleutica,Sterna,Laridae
-Red-billed Tropicbird,Phaethon aethereus,Phaethon,Phaethontidae
-Magnificent Frigatebird,Fregata magnificens,Fregata,Fregatidae
-Red-footed Booby,Sula sula,Sula,Sulidae
-Brown Booby,Sula leucogaster,Sula,Sulidae
-Blue-footed Booby,Sula nebouxii,Sula,Sulidae
-Kittlitz's Murrelet,Brachyramphus brevirostris,Brachyramphus,Alcidae
-Marbled Murrelet,Brachyramphus marmoratus,Brachyramphus,Alcidae
-Common Eider,Somateria mollissima,Somateria,Anatidae
+New Zealand Shearwater,Puffinus bulleri,Puffinus,Procellariidae,,
+Laysan Albatross,Diomedea immutabilis,Diomedea,Diomedeidae,,
+Black-footed Albatross,Diomedea nigripes,Diomedea,Diomedeidae,,
+Thayer's Gull,Larus thayeri,Larus,Laridae,,
+Herring Gull, Larus argentatus,Larus,Laridae,,
+Glaucous-winged Gull,Larus glaucescens,Larus,Laridae,,
+Western Gull,Larus occidentalis,Larus,Laridae,,
+Mew Gull,Larus canus,Larus,Laridae,,
+Heermann's Gull,Larus heermanni,Larus,Laridae,,
+Least Tern,Sterna albifrons,Sterna,Laridae,,
+Royal Tern,Sterna maxima,Sterna,Laridae,,
+Elegant Tern,Sterna elegans,Sterna,Laridae,,
+Aleutian Tern,Sterna aleutica,Sterna,Laridae,,
+Red-billed Tropicbird,Phaethon aethereus,Phaethon,Phaethontidae,,
+Magnificent Frigatebird,Fregata magnificens,Fregata,Fregatidae,,
+Red-footed Booby,Sula sula,Sula,Sulidae,,
+Brown Booby,Sula leucogaster,Sula,Sulidae,,
+Blue-footed Booby,Sula nebouxii,Sula,Sulidae,,
+Kittlitz's Murrelet,Brachyramphus brevirostris,Brachyramphus,Alcidae,,
+Marbled Murrelet,Brachyramphus marmoratus,Brachyramphus,Alcidae,,
+Common Eider,Somateria mollissima,Somateria,Anatidae,,
 Black Scoter,Melanitta nigra,Melanitta,Anatidae,,Common Scoter
-White-winged Scoter,Melanitta deglandi,Melanitta,Anatidae
-Surf Scoter,Melanitta perspicillata,Melanitta,Anatidae
-Emperor Goose,Philacte canagica,Philacte,Anatidae
+White-winged Scoter,Melanitta deglandi,Melanitta,Anatidae,,
+Surf Scoter,Melanitta perspicillata,Melanitta,Anatidae,,
+Emperor Goose,Philacte canagica,Philacte,Anatidae,,
 Brant,Branta bernicla,Branta,Anatidae,,Black Brant
-Red-throated Loon,Gaviaa stellata,Gavia,Gaviidae
-Arctic Loon,Gavia arctica,Gavia,Gaviidae
-Snowy Plover,Charadrius alexandrinus,Charadrius,Charadriidae
-Semipalmated Plover,Charadrius semipalamatus,Charadrius,Charadriidae
-Dunlin,Calidris alpina,Calidris,Scolopacidae
-Sanderling,Calidris alba,Calidris,Scolopacidae
-Sharp-tailed Sandpiper,Calidris acuminata,Calidris,Scolopacidae
-Red Phalarope,Phalaropus fulicarius,Phalaropus,Phalaropodidae
-Northern Phalarope,Phalaropus lobatus,Phalaropus,Phalaropodidae
-Gyrfalcon,Falco rusticolus,Falco,Falconidae
-Glaucous Gull,Larus hyperboreus,Larus,Laridae
-Black-legged Kittiwake,Rissa tridactyla,Rissa,Laridae
-Red-legged Kittiwake,Rissa brevirostris,Rissa,Laridae
+Red-throated Loon,Gaviaa stellata,Gavia,Gaviidae,,
+Arctic Loon,Gavia arctica,Gavia,Gaviidae,,
+Snowy Plover,Charadrius alexandrinus,Charadrius,Charadriidae,,
+Semipalmated Plover,Charadrius semipalamatus,Charadrius,Charadriidae,,
+Dunlin,Calidris alpina,Calidris,Scolopacidae,,
+Sanderling,Calidris alba,Calidris,Scolopacidae,,
+Sharp-tailed Sandpiper,Calidris acuminata,Calidris,Scolopacidae,,
+Red Phalarope,Phalaropus fulicarius,Phalaropus,Phalaropodidae,,
+Northern Phalarope,Phalaropus lobatus,Phalaropus,Phalaropodidae,,
+Gyrfalcon,Falco rusticolus,Falco,Falconidae,,
+Glaucous Gull,Larus hyperboreus,Larus,Laridae,,
+Black-legged Kittiwake,Rissa tridactyla,Rissa,Laridae,,
+Red-legged Kittiwake,Rissa brevirostris,Rissa,Laridae,,
 Fork-tailed Storm-Petrel,Oceanodroma furicata,Oceanodroma,Hydrobatidae,,Fork-tailed Petrel
 Leach's Storm-Petrel,Oceanodroma leucorhoa,Oceanodroma,Hydrobatidae,,Leach's Petrel
 Ashy Storm-Petrel,Oceanodroma homochroa,Oceanodroma,Hydrobatidae,,Ashy Petrel
 Black Storm-Petrel,Oceanodroma melania,Oceanodroma,Hydrobatidae,,Black Petrel
-Pelagic Cormorant,Phalacrocorax pelagicus,Phalacrocorax,Phalacrocoracidae
-Red-faced Cormorant,Phalacrocorax urile,Phalacrocorax,Phalacrocoracidae
-Brandt's Cormorant,Phalacrocorax penicillatus,Phalacrocorax,Phalacrocoracidae
-Thick-billed Murre,Uria lomvia,Uria,Alcidae
-Common Murre,Uria aalge,Uria,Alcidae
-Pigeon Guillemot,Cepphus columba,Cepphus,Alcidae
-Tufted Puffin,Lunda cirrhata,Lunda,Alcidae
-Horned Puffin,Fratercula corniculata,Fratercula,Alcidae
-Rhinoceros Auklet,Cerorhinca monocerata,Cerorhinca,Alcidae
-Crested Auklet,Aethia cristatella,Aethia,Alcidae
-Whiskered Auklet,Aethia pygmaea,Aethia,Alcidae
-Cassin's Auklet,Ptychoramphus aleuticus,Ptychoramphus,Alcidae
-Parakeet Auklet,Cyclorrhynchus psittacula,Cyclorrhynchus,Alcidae
-Least Auklet,Aethia pusilla,Aethia,Alcidae
+Pelagic Cormorant,Phalacrocorax pelagicus,Phalacrocorax,Phalacrocoracidae,,
+Red-faced Cormorant,Phalacrocorax urile,Phalacrocorax,Phalacrocoracidae,,
+Brandt's Cormorant,Phalacrocorax penicillatus,Phalacrocorax,Phalacrocoracidae,,
+Thick-billed Murre,Uria lomvia,Uria,Alcidae,,
+Common Murre,Uria aalge,Uria,Alcidae,,
+Pigeon Guillemot,Cepphus columba,Cepphus,Alcidae,,
+Tufted Puffin,Lunda cirrhata,Lunda,Alcidae,,
+Horned Puffin,Fratercula corniculata,Fratercula,Alcidae,,
+Rhinoceros Auklet,Cerorhinca monocerata,Cerorhinca,Alcidae,,
+Crested Auklet,Aethia cristatella,Aethia,Alcidae,,
+Whiskered Auklet,Aethia pygmaea,Aethia,Alcidae,,
+Cassin's Auklet,Ptychoramphus aleuticus,Ptychoramphus,Alcidae,,
+Parakeet Auklet,Cyclorrhynchus psittacula,Cyclorrhynchus,Alcidae,,
+Least Auklet,Aethia pusilla,Aethia,Alcidae,,
 Xantus' Murrelet,Endomychura hypoleuca,Endomychura,Alcidae,,Xantus Murrelet
-Craveri's Murrelet,Endomychura craveri,Endomychura,Alcidae
-Ancient Murrelet,Synthliboramphus antiquus,Synthliboramphus,Alcidae
-Brown Pelican,Pelecanus occidentalis,Pelecanus,Pelecanidae
-Ruddy Turnstone,Arenaria interpres,Arenaria,Scolopacidae
-Rock Sandpiper,Calidris ptilocnemis,Calidris,Scolopacidae
-Black Oystercatcher,Haematopus bachmani,Haematopus,Haematopodidae
-Black Turnstone,Arenaria melanocephala,Arenaria,Scolopacidae
-Surfbird,Aphriza virgata,Aphriza,Scolopacidae
-Wandering Tattler,Heteroscelus incanus,Heteroscelus,Scolopacidae
-Cattle Egret,Bubulcus ibis,Bubulcus,Ardeidae
-Gull-billed Tern,Gelochelidon nilotica,Gelochelidon,Laridae
-Tufted Duck,Aythya fuligula,Aythya,Anatidae
-Lesser Scaup,Aythya affinis,Aythya,Anatidae
-Greater Scaup,Aythya marila,Aythya,Anatidae
-Whistling Swan,Olor columbianus,Olor,Anatidae
-Short-billed Dowitcher,Limnodromus griseus,Limnodromus,Scolopacidae
-Clapper Rail,Rallus longirostris,Rallus,Rallidae
-Black Rail,Laterallus jamaicensis,Laterallus,Rallidae
-Snowy Egret,Egretta thula,Egretta,Ardeidae
+Craveri's Murrelet,Endomychura craveri,Endomychura,Alcidae,,
+Ancient Murrelet,Synthliboramphus antiquus,Synthliboramphus,Alcidae,,
+Brown Pelican,Pelecanus occidentalis,Pelecanus,Pelecanidae,,
+Ruddy Turnstone,Arenaria interpres,Arenaria,Scolopacidae,,
+Rock Sandpiper,Calidris ptilocnemis,Calidris,Scolopacidae,,
+Black Oystercatcher,Haematopus bachmani,Haematopus,Haematopodidae,,
+Black Turnstone,Arenaria melanocephala,Arenaria,Scolopacidae,,
+Surfbird,Aphriza virgata,Aphriza,Scolopacidae,,
+Wandering Tattler,Heteroscelus incanus,Heteroscelus,Scolopacidae,,
+Cattle Egret,Bubulcus ibis,Bubulcus,Ardeidae,,
+Gull-billed Tern,Gelochelidon nilotica,Gelochelidon,Laridae,,
+Tufted Duck,Aythya fuligula,Aythya,Anatidae,,
+Lesser Scaup,Aythya affinis,Aythya,Anatidae,,
+Greater Scaup,Aythya marila,Aythya,Anatidae,,
+Whistling Swan,Olor columbianus,Olor,Anatidae,,
+Short-billed Dowitcher,Limnodromus griseus,Limnodromus,Scolopacidae,,
+Clapper Rail,Rallus longirostris,Rallus,Rallidae,,
+Black Rail,Laterallus jamaicensis,Laterallus,Rallidae,,
+Snowy Egret,Egretta thula,Egretta,Ardeidae,,
 Great Egret,Casmerodius albus,Casmerodius,Ardeidae,,Common Egret
-Black-crowned Night Neron,Nycticorax nycticorax,Nycticorax,Ardeidae
-Least Bittern,Ixobrychus exilis,Ixobrychus,Ardeidae
-American Bittern,Botaurus lentiginosus,Botaurus,Ardeidae
+Black-crowned Night Neron,Nycticorax nycticorax,Nycticorax,Ardeidae,,
+Least Bittern,Ixobrychus exilis,Ixobrychus,Ardeidae,,
+American Bittern,Botaurus lentiginosus,Botaurus,Ardeidae,,
 Wood Stork,Mycteria americana,Mycteria,Ciconiidae,,Wood ibis
-White-faced Ibis,Plegadis chihi,Plegadis,Threskiornithidae
-Great Blue Heron,Ardea herodias,Ardea,Ardeidae
-Sandhill Crane,Grus canadensis,Grus,Gruidae
-Black Tern,Chlidonias niger,Chlidonias,Laridae
-Ring-necked Duck,Aythya collaris,Aythya,Anatidae
-Redhead,Aythya americana,Aythya,Anatidae
-Canvasback,Aythya valisineria,Aythya,Anatidae
+White-faced Ibis,Plegadis chihi,Plegadis,Threskiornithidae,,
+Great Blue Heron,Ardea herodias,Ardea,Ardeidae,,
+Sandhill Crane,Grus canadensis,Grus,Gruidae,,
+Black Tern,Chlidonias niger,Chlidonias,Laridae,,
+Ring-necked Duck,Aythya collaris,Aythya,Anatidae,,
+Redhead,Aythya americana,Aythya,Anatidae,,
+Canvasback,Aythya valisineria,Aythya,Anatidae,,
 Northern Shoveler,Anas clypeata,Anas,Anatidae,,Shoveler
-Mallard,Anas platyrhynchos,Anas,Anatidae
-American Coot,Fulica americana,Fulica,Rallidae
-Ruddy Duck,Oxyura jamaicensis,Oxyura,Anatidae
-Cinnamon Teal,Anas cyanoptera,Anas,Anatidae
-European Wigeon,Anas penelope,Anas,Anatidae
-American Wigeon,Anas americana,Anas,Anatidae
-Blue-winged Teal,Anas discors,Anas,Anatidae
-Green-winged Teal,Anas crecca,Anas,Anatidae
-Fulvous Whistling-Duck,Dendrocygna bicolor,Dendrocygna,Anatidae
-Mexican Duck,Anas diazi,Anas,Anatidae
-Pintail,Anas acuta,Anas,Anatidae
-Gadwall,Anas strepera,Anas,Anatidae
-Trumpeter Swan,Olor buccinator,Olor,Anatidae
-Ross' Goose,Chen rossii,Chen,Anatidae
+Mallard,Anas platyrhynchos,Anas,Anatidae,,
+American Coot,Fulica americana,Fulica,Rallidae,,
+Ruddy Duck,Oxyura jamaicensis,Oxyura,Anatidae,,
+Cinnamon Teal,Anas cyanoptera,Anas,Anatidae,,
+European Wigeon,Anas penelope,Anas,Anatidae,,
+American Wigeon,Anas americana,Anas,Anatidae,,
+Blue-winged Teal,Anas discors,Anas,Anatidae,,
+Green-winged Teal,Anas crecca,Anas,Anatidae,,
+Fulvous Whistling-Duck,Dendrocygna bicolor,Dendrocygna,Anatidae,,
+Mexican Duck,Anas diazi,Anas,Anatidae,,
+Pintail,Anas acuta,Anas,Anatidae,,
+Gadwall,Anas strepera,Anas,Anatidae,,
+Trumpeter Swan,Olor buccinator,Olor,Anatidae,,
+Ross' Goose,Chen rossii,Chen,Anatidae,,
 Snow Goose,Chen caerulescens,Chen,Anatidae,,Blue Goose
-Canada Goose,Branta canadensis,Branta,Anatidae
-White-fronted Goose,Anser albifrons,Anser,Anatidae
-Wilson's Phalarope,Steganopus tricolor,Steganopus,Phalaropodidae
+Canada Goose,Branta canadensis,Branta,Anatidae,,
+White-fronted Goose,Anser albifrons,Anser,Anatidae,,
+Wilson's Phalarope,Steganopus tricolor,Steganopus,Phalaropodidae,,
 Common Snipe,Capella gallinago,Capella,Scolopacidae,,Wilson's Snipe
-Willet,Catoptrophorus semipalmatus,Catoptrophorus,Scolopacidae
+Willet,Catoptrophorus semipalmatus,Catoptrophorus,Scolopacidae,,
 Black-necked Stilt,Himantopus mexicanus,Himantopus,Recurvirostridae,,Blacknecked Stilt
-American Avocet,Recurvirostra americana,Recurvirostra,Recurvirostridae
-Virginia Rail,Rallus limicola,Rallus,Rallidae
-Yellow Rail,Coturnicops noveboracensis,Coturnicops,Rallidae
-Sora,Porzana carolina,Porzana,Rallidae
-Common Gallinule,Gallinula chloropus,Gallinula,Rallidae
-Short-eared Owl,Asio flammeus,Asio,Strigidae
-Marsh Hawk,Circus cyaneus,Circus,Accipitridae
+American Avocet,Recurvirostra americana,Recurvirostra,Recurvirostridae,,
+Virginia Rail,Rallus limicola,Rallus,Rallidae,,
+Yellow Rail,Coturnicops noveboracensis,Coturnicops,Rallidae,,
+Sora,Porzana carolina,Porzana,Rallidae,,
+Common Gallinule,Gallinula chloropus,Gallinula,Rallidae,,
+Short-eared Owl,Asio flammeus,Asio,Strigidae,,
+Marsh Hawk,Circus cyaneus,Circus,Accipitridae,,
 Common Yellowthroat,Geothlypis trichas,Geothlypis,Parulidae,,Yellowthroat
-Yellow-headed Blackbird,Xanthocephalus xanthocephalus,Xanthocephalus,Icteridae
-Long-billed Marsh Wren,Cistothorus palustris,Cistothorus,Troglodytidae
-Red-winged Blackbird,Agelaius phoeniceus,Agelaius,Icteridae
-Tricolored Blackbird,Agelaius tricolor,Agelaius,Icteridae
+Yellow-headed Blackbird,Xanthocephalus xanthocephalus,Xanthocephalus,Icteridae,,
+Long-billed Marsh Wren,Cistothorus palustris,Cistothorus,Troglodytidae,,
+Red-winged Blackbird,Agelaius phoeniceus,Agelaius,Icteridae,,
+Tricolored Blackbird,Agelaius tricolor,Agelaius,Icteridae,,
+Green Heron,Butorides striatus,Butorides,Ardeidae,,
+California Gull,Larus californicus,Larus,Laridae,,
+Ring-billed Gull,Larus delawarensis,Larus,Laridae,,
+Bonaparte's Gull,Larus philadelphia,Larus,Laridae,,
+Franklin's Gull,Larus pipixcan,Larus,Laridae,,
