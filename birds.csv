@@ -182,7 +182,7 @@ Rufous-necked Sandpiper,Calidris ruficollis,Calidris,Scolopacidae
 Long-billed Dowitcher,Limnodromnus scolopaceus,Limnodromnus,Scolopacidae,,Longbilled Dowitcher
 Bar-tailed Godwit,Limosa lapponica,Limosa,Scolopacidae,,Bartailed Godwit
 Lapland Longspur,Calcarius lapponicus,Calcarius,Fringillidae
-Lesser Nighthawk,Chordeilis acutipennis,Chordeilis,Caprimulgidae
+Lesser Nighthawk,Chordeiles acutipennis,Chordeiles,Caprimulgidae
 Roadrunner,Geococcyx californianus,Geococcyx,Cuculidae
 Gambel's Quail,Lophortyx gambelii,Lophortyx,Phasianidae
 Elf Owl,Micrathene whitneyi,Micrathene,Strigidae
@@ -201,3 +201,61 @@ Lucy's Warbler,Vermivora luciae,Vermivora,Parulidae
 Vermilion Flycatcher,Pyrocephalus rubinus,Pyrocephalus,Tyrannidae
 Pyrrhuloxia,Cardinalis sinuatus,Cardinalis,Fringillidae
 Phainopepla,Phainopepla nitens,Phainopepla,Ptilogonatidae
+Black-tailed Gnatcatcher,Polioptila melanura,Polioptila,Sylviidae,,Blacktailed Gnatcatcher
+Wied's Crested Flycatcher,Myiarchus tyrannulus,Myiarchus,Tyrannidae
+Cactus Wren,Campylorhychus brunneicapillus,Campylorhychus,Troglodytidae
+Bendire's Thrasher,Toxostoma bendirei,Toxostoma,Mimidae,,Bendires Thrasher
+Curve-billed Thrasher,Toxostoma curvirostre,Toxostoma,Mimidae
+Le Conte's Thrasher,Toxostoma leocontei,Toxostoma,Mimidae,,Le Contes Thrasher
+Crissal Thrasher,Toxostoma dorsale,Toxostoma,Mimidae
+Abert's Towhee,Pipilo aberti,Pipilo,Fringillidae,,Aberts Towhee
+Black-throated Sparrow,Amphispiza bilineata,Amphispiza,Fringillidae,,Blackthroated Sparrow
+Varied Bunting,Passerina versicolor,Passerina,Fringillidae
+White-necked Raven,Corvus cryptoleucus,Corvus,Corvidae,,Whitenecked Raven
+Upland Sandpiper,Bartramia longicauda,Bartramia,Scolopacidae,,Upland Plover
+Marbled Godwit,Limosa fedoa,Limosa,Scolopacidae
+Long-billed Curlew,Numenius americanus,Numenius,Scolopacidae,,Longbilled Curlew
+Common Nighthawk,Chordeiles minor,Chordeiles,Caprimulgidae
+Sharp-tailed Grouse,Pediocetes phasianellus,Pediocetes,Tetraonidae,,Sharptailed Grouse
+Greater Prairie Chicken,Tympanuchus cupido,Tympanuchus,Tetraonidae
+Lesser Prairie Chicken,Tympanuchus pallidicinctus,Tympanuchus,Tetraonidae
+Bobwhite,Colinus virginiannus,Colinus,Phasianidae
+Scaled Owl,Callipepla squamata,Callipepla,Phasianidae
+Burrowing Owl,Athene cunicularia,Athene,Strigidae
+Barn Owl,Tyto alba,Tyto,Tytonidae
+Black Vulture,Coragyps atratus,Coragyps,Cathartidae
+Turkey Vulture,Cathartes aura,Cathartes,Cathartidae
+Swainson's Hawk,Buteo swainsoni,Buteo,Accipitridae,,Swainsons Hawk
+Red-tailed Hawk,Buteo jamaicensis,Buteo,Accipitridae,,Redtailed Hawk
+Ferruginous Hawk,Buteo regalis,Buteo,Accipitridae
+White-tailed Kite,Elanus leucurus,Elanus,Accipitridae,,Whitetailed Kite
+Aplomado Falcon,Falco femoralis,Falco,Falconidae
+American Kestrel,Falco sparverius,Falco,Falconidae,,Sparrow Hawk
+Golden Eagle,Aquila chrysaetos,Aquila,Accipitridae
+Mourning Dove,Zenaida macroura,Zenaida,Columbidae
+Lesser Goldfinch,Carduelis psaltria,Carduelis,Fringillidae
+Western Kingbird,Tyrannus verticalis,Tyrannus,Tyrannidae
+Cassin's Kingbird,Tyrannus vociferans,Tyrannus,Tyrannidae,,Cassins Kingbird
+Western Meadowlark,Sturmella neglecta,Sturmella,Icteridae
+Eastern Meadowlark,Sturmella magna,Sturmella,Icteridae
+Scissor-tailed Flycatcher,Muscivora forficata,Muscivora,Tyrannidae,,Scissortailed Flycatcher
+Loggerhead Shrike,Lanius ludovicianus,Lanius,Laniidae
+Eastern Kingbird,Tyrannus tyrannus,Tyrannus,Tyrannidae
+Brewer's Blackbird,Euphagus cyanocephalus,Euphagus,Icteridae,,Brewers Blackbird
+Grasshopper Sparrow,Ammodramus savannarum,Ammodramus,Fringillidae
+Botteri's Sparrow,Aimophila botterii,Aimophila,Fringillidae,,Botteris Sparrow
+Cassin's Sparrow,Aimophila cassinii,Aimophila,Fringillidae,,Cassins Sparrow
+Rufous-winged Sparrow,Aimphila carpalis,Aimophila,Fringillidae,,Rufouswinged Sparrow
+Baird's Sparrow,Ammodramus bairdii,Ammodramus,Fringillidae,,Bairds Sparrow
+Savannah Sparrow,Passerculus sandwichensis,Passerculus,Fringillidae
+Lark Bunting,Calamospiza melanocorys,Calamospiza,Fringillidae
+Lark Sparrow,Chondestes grammacus,Chondestes,Fringillidae
+Clay-colored Sparrow,Spizella pallidae,Spizella,Fringillidae,,Claycolored Sparrow
+Bobolink,Dolichonyx oryzivorus,Dolichonyx,Icteridae
+McCown's Longspur,Calcarius mccownii,Calcarius,Fringillidae,,McCowns Longspur
+Chestnut-collared Longspur,Calcarius ornatus,Calcarius,Fringillidae,,Chestnutcolored Longspur
+Horned Lark,Eremophila alpestris,Eremophila,Alaudidae
+Sprague's Pipit,Anthus spragueii,Anthus,Motacillidae,,Spragues Pipit
+Yellow-billed Magpie,Pica nuttalli,Pica,Corvidae,,Yellowbilled Magpie
+Black-billed Magpie,Pica pica,Pica,Corvidae,,Blackbilled Magpie
+Great-tailed Grackle,Quiscalus mexicanus,Quiscalus,Icteridae,,Greattailed Grackle
