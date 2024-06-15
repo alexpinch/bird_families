@@ -14,7 +14,8 @@ guess <- readLines(con = "stdin", n = 1)
 
 if (guess == answer) {
   cat("Correct!\n")
-} else {
+} 
+else {
   guess_found <- which(birds[, 1] == guess)
   if (length(guess_found) > 0) {
     
@@ -25,7 +26,8 @@ if (guess == answer) {
     if (length(shared_ancestry) > 0) {
       cat("Shared ancestry:", paste(shared_ancestry, collapse = ", "), "\n")
     }
-  } else {
+  } 
+  else {
     cat("Unrecognized bird\n")
   }
 }
