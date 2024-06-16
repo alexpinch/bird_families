@@ -1,6 +1,6 @@
 # Alex Pinch, May 14 2024
 
-birds <- read.csv("/Users/alexpinch/GitHub/private/phylaves/birds.csv", header = FALSE)
+birds <- read.csv("/Users/alexpinch/GitHub/private/phyl_bird/birds.csv", header = FALSE)
 num_rows <- nrow(birds)
 random_row <- sample(1:num_rows, 1)
 answer <- birds[random_row, 1]
