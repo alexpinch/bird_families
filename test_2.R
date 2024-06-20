@@ -4,9 +4,9 @@ library(shiny)
 library(shinyWidgets)
 
 birds <- read.csv("/Users/alexpinch/GitHub/private/phyl_bird/birds.csv", header = TRUE)
-num_rows <- nrow(birds)
 
 # selecting the answer
+num_rows <- nrow(birds)
 random_row <- sample(1:num_rows, 1)
 answer <- birds[random_row, 1]
 
@@ -33,7 +33,6 @@ ui <- fluidPage(
       uiOutput("bird_info")
     )
 )
-
 
 server <- function(input, output) {
   
