@@ -14,29 +14,27 @@ ui <- fluidPage(
   titlePanel("phyl_bird!!"),
   p("Text w rules about the game to go here"),
   
-  # drop down menu
-  # change this so that the drop-down only appears once you start typing (so that all possible birds aren't shown immediately)
   sidebarPanel(
-      pickerInput(
-        inputId = "bird_search", 
-        label = "Search for a bird:", 
-        choices = birds$COMMON_NAME,
-        options = list(
-          `live-search` = TRUE,
-          `actions-box` = TRUE,
-          `virtual-scroll` = TRUE
-        ),
-        multiple = FALSE
+    selectizeInput(
+      inputId = "bird_search", 
+      label = "Search for a bird:", 
+      choices = NULL, # Initially no choices to display
+      options = list(
+        placeholder = 'Type to search...',
+        maxOptions = 1000,
+        value = NULL
       )
-    ),
-    mainPanel(
-      uiOutput("bird_info")
     )
+  ),
+  mainPanel(
+    uiOutput("bird_info")
+  )
 )
 
-server <- function(input, output) {
+server <- function(input, output, session) {
   
-  # guessing counter to go here, something that doesn't loop forever and slow things down pls
+  # Update selectizeInput choices based on the user input
+  updateSelectizeInput(session, 'bird_search', choices = birds$COMMON_NAME, server = TRUE)
   
   output$bird_info <- renderUI({
     selected_bird <- input$bird_search
@@ -47,14 +45,10 @@ server <- function(input, output) {
         h4(bird_info$LATIN_NAME),
         h5(bird_info$FAMILY)
       )
-      
-      # another if statement seeing what the shared ancestry is between answer and selected_bird
-      
     } else {
       p("Select a bird to see its information.")
     }
   })
-  
 }
 
 # Run the application 
