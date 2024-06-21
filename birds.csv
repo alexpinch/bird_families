@@ -138,123 +138,123 @@ California Gull,Larus californicus,Larus,Laridae,,
 Ring-billed Gull,Larus delawarensis,Larus,Laridae,,
 Bonaparte's Gull,Larus philadelphia,Larus,Laridae,,
 Franklin's Gull,Larus pipixcan,Larus,Laridae,,
-Common Tern,Sterna hirundo,Sterna,Laridae
-Caspian Tern,Sterna caspia,Sterna,Laridae
+Common Tern,Sterna hirundo,Sterna,Laridae,,
+Caspian Tern,Sterna caspia,Sterna,Laridae,,
 Double-crested Cormorant,Phalacrocorax auritus,Phalacrocorax,Phalacrocoracidae,,Doublecrested Cormorant
 Red-breasted Merganser,Mergus serrator,Mergus,Anatidae,,Redbreasted Merganser
-Common Merganser,Mergus merganser,Mergus,Anatidae
-Hooded Merganser,Lophodytes cucullatus,Lophodytes,Anatidae
-Bufflehead,Bucephala albeola,Bucephala,Anatidae
-Barrow's Goldeneye,Bucephala islandica,Bucephala,Anatidae
-Common Goldeneye,Bucephala clangula,Bucephala,Anatidae
-Wood Duck,Aix sponsa,Aix,Anatidae
+Common Merganser,Mergus merganser,Mergus,Anatidae,,
+Hooded Merganser,Lophodytes cucullatus,Lophodytes,Anatidae,,
+Bufflehead,Bucephala albeola,Bucephala,Anatidae,,
+Barrow's Goldeneye,Bucephala islandica,Bucephala,Anatidae,,
+Common Goldeneye,Bucephala clangula,Bucephala,Anatidae,,
+Wood Duck,Aix sponsa,Aix,Anatidae,,
 Harlequin Duck,Histrionicus histrionicus,Histrionicus,Anatidae,,Harlequinn Duck
-White Pelican,Pelecanus erythrorhynchos,Pelecanus,Pelecanidae
-Common Loon,Gavia immer,Gavia,Gaviidae
-Western Grebe,Aechmophorus occidentalis,Aechmophorus,Podicipedidae
+White Pelican,Pelecanus erythrorhynchos,Pelecanus,Pelecanidae,,
+Common Loon,Gavia immer,Gavia,Gaviidae,,
+Western Grebe,Aechmophorus occidentalis,Aechmophorus,Podicipedidae,,
 Red-necked Grebe,Podiceps grisegena,Podiceps,Podicipedidae,,Rednecked Grebe
 Pied-billed Grebe,Podilymbus podiceps,Podilymbus,Podicipedidae,,Piedbilled Grebe
-Eared Grebe,Podiceps nigricollis,Podiceps,Podicipedidae
-Horned Grebe,Podiceps auritus,Podiceps,Podicipedidae
-Killdeer,Charadrius vociferus,Charadrius,Charadriidae
-Solitary Sandpiper,Tringa solitaria,Tringa,Scolopacidae
-Spotted Sandpiper,Actitis macularia,Actitis,Scolopacidae
-Pectoral Sandpiper,Calidris melanotos,Calidris,Scolopacidae
-Osprey,Pandion haliaetus,Pandion,Pandionidae
-Bald Eagle,Haliaeetus leucocephalus,Haliaeetus,Accipitridae
+Eared Grebe,Podiceps nigricollis,Podiceps,Podicipedidae,,
+Horned Grebe,Podiceps auritus,Podiceps,Podicipedidae,,
+Killdeer,Charadrius vociferus,Charadrius,Charadriidae,,
+Solitary Sandpiper,Tringa solitaria,Tringa,Scolopacidae,,
+Spotted Sandpiper,Actitis macularia,Actitis,Scolopacidae,,
+Pectoral Sandpiper,Calidris melanotos,Calidris,Scolopacidae,,
+Osprey,Pandion haliaetus,Pandion,Pandionidae,,
+Bald Eagle,Haliaeetus leucocephalus,Haliaeetus,Accipitridae,,
 Rough-winged Swallow,Stelgidopteryx ruficollis,Stelgidopteryx,Hirundinidae,,Roughwinged Swallow
-Bank Swallow,Riparia riparia,Riparia,Hirundinidae
-Tree Swallow,Iridoprocne bicolor,Iridoprocne,Hirundinidae
-Dipper,Cinclus mexicanus,Cinclus,Cinclidae
-Belted Kingfisher,Megaceryle alcyon,Megaceryle,Alcedinidae
-Green Kingfisher,Chloroceryle americana,Chloroceryle,Alcedinidae
-Black Phoebe,Sayornis nigricans,Sayornis,Tyrannidae
-Parasitic Jaeger,Stercocarius parasiticus,Stercocarius,Stercorariidae
-Pomarine Jaeger,Stercocarius pomarinus,Stercocarius,Stercorariidae
-Oldsquaw,Clangula hyemalis,Clangula,Anatidae
-King Eider,Somateria spectabilis,Somateria,Anatidae
-Spectacled Eider,Somateria fischeri,Somateria,Anatidae
-Steller's Eider,Polysticta stelleri,Polysticta,Anatidae
+Bank Swallow,Riparia riparia,Riparia,Hirundinidae,,
+Tree Swallow,Iridoprocne bicolor,Iridoprocne,Hirundinidae,,
+Dipper,Cinclus mexicanus,Cinclus,Cinclidae,,
+Belted Kingfisher,Megaceryle alcyon,Megaceryle,Alcedinidae,,
+Green Kingfisher,Chloroceryle americana,Chloroceryle,Alcedinidae,,
+Black Phoebe,Sayornis nigricans,Sayornis,Tyrannidae,,
+Parasitic Jaeger,Stercocarius parasiticus,Stercocarius,Stercorariidae,,
+Pomarine Jaeger,Stercocarius pomarinus,Stercocarius,Stercorariidae,,
+Oldsquaw,Clangula hyemalis,Clangula,Anatidae,,
+King Eider,Somateria spectabilis,Somateria,Anatidae,,
+Spectacled Eider,Somateria fischeri,Somateria,Anatidae,,
+Steller's Eider,Polysticta stelleri,Polysticta,Anatidae,,
 Yellow-billed Loon,Gavia adamsii,Gavia,Gaviidae,,Yellowbilled Loon
-Least Sandpiper,Calidris minutilla,Calidris,Scolopacidae
-Semipalmated Sandpiper,Calidris pusilla,Calidris,Scolopacidae
-Rufous-necked Sandpiper,Calidris ruficollis,Calidris,Scolopacidae
+Least Sandpiper,Calidris minutilla,Calidris,Scolopacidae,,
+Semipalmated Sandpiper,Calidris pusilla,Calidris,Scolopacidae,,
+Rufous-necked Sandpiper,Calidris ruficollis,Calidris,Scolopacidae,,
 Long-billed Dowitcher,Limnodromnus scolopaceus,Limnodromnus,Scolopacidae,,Longbilled Dowitcher
 Bar-tailed Godwit,Limosa lapponica,Limosa,Scolopacidae,,Bartailed Godwit
-Lapland Longspur,Calcarius lapponicus,Calcarius,Fringillidae
-Lesser Nighthawk,Chordeiles acutipennis,Chordeiles,Caprimulgidae
-Roadrunner,Geococcyx californianus,Geococcyx,Cuculidae
-Gambel's Quail,Lophortyx gambelii,Lophortyx,Phasianidae
-Elf Owl,Micrathene whitneyi,Micrathene,Strigidae
-Ferruginous Owl,Glaucidium brasilianum,Glaucidium,Strigidae
-Caracara,Caracara cheriway,Caracara,Falconidae
+Lapland Longspur,Calcarius lapponicus,Calcarius,Fringillidae,,
+Lesser Nighthawk,Chordeiles acutipennis,Chordeiles,Caprimulgidae,,
+Roadrunner,Geococcyx californianus,Geococcyx,Cuculidae,,
+Gambel's Quail,Lophortyx gambelii,Lophortyx,Phasianidae,,
+Elf Owl,Micrathene whitneyi,Micrathene,Strigidae,,
+Ferruginous Owl,Glaucidium brasilianum,Glaucidium,Strigidae,,
+Caracara,Caracara cheriway,Caracara,Falconidae,,
 Harris' Hawk,Parabuteo unicinctus,Parabuteo,Accipitridae,,Harris Hawk
-Ground Dove,Columbina passerina,Columbina,Columbidae
-White-winged Dove,Zenaida asiatica,Zenaida,Columbidae
+Ground Dove,Columbina passerina,Columbina,Columbidae,,
+White-winged Dove,Zenaida asiatica,Zenaida,Columbidae,,
 Ladder-backed Woodpecker,Picoides scalaris,Picoides,Picidae,,Ladderbacked Woodpecker
-Gila Woodpecer,Melanerpes uropygialis,Melanerpes,Picidae
+Gila Woodpecer,Melanerpes uropygialis,Melanerpes,Picidae,,
 Broad-billed Hummingbird,Cyanthus latirostris,Cyanthus,Trochilidae,,Broadbilled Hummingbird
-Costa's Hummingbird,Calypte costae,Calypte,Trochilidae
-Lucifer Hummingbird,Colathorax lucifer,Colathorax,Trochilidae
-Verdin,Auriparus flaviceps,Auriparus,Paridae
-Lucy's Warbler,Vermivora luciae,Vermivora,Parulidae
-Vermilion Flycatcher,Pyrocephalus rubinus,Pyrocephalus,Tyrannidae
-Pyrrhuloxia,Cardinalis sinuatus,Cardinalis,Fringillidae
-Phainopepla,Phainopepla nitens,Phainopepla,Ptilogonatidae
+Costa's Hummingbird,Calypte costae,Calypte,Trochilidae,,
+Lucifer Hummingbird,Colathorax lucifer,Colathorax,Trochilidae,,
+Verdin,Auriparus flaviceps,Auriparus,Paridae,,
+Lucy's Warbler,Vermivora luciae,Vermivora,Parulidae,,
+Vermilion Flycatcher,Pyrocephalus rubinus,Pyrocephalus,Tyrannidae,,
+Pyrrhuloxia,Cardinalis sinuatus,Cardinalis,Fringillidae,,
+Phainopepla,Phainopepla nitens,Phainopepla,Ptilogonatidae,,
 Black-tailed Gnatcatcher,Polioptila melanura,Polioptila,Sylviidae,,Blacktailed Gnatcatcher
-Wied's Crested Flycatcher,Myiarchus tyrannulus,Myiarchus,Tyrannidae
-Cactus Wren,Campylorhychus brunneicapillus,Campylorhychus,Troglodytidae
+Wied's Crested Flycatcher,Myiarchus tyrannulus,Myiarchus,Tyrannidae,,
+Cactus Wren,Campylorhychus brunneicapillus,Campylorhychus,Troglodytidae,,
 Bendire's Thrasher,Toxostoma bendirei,Toxostoma,Mimidae,,Bendires Thrasher
-Curve-billed Thrasher,Toxostoma curvirostre,Toxostoma,Mimidae
+Curve-billed Thrasher,Toxostoma curvirostre,Toxostoma,Mimidae,,
 Le Conte's Thrasher,Toxostoma leocontei,Toxostoma,Mimidae,,Le Contes Thrasher
-Crissal Thrasher,Toxostoma dorsale,Toxostoma,Mimidae
+Crissal Thrasher,Toxostoma dorsale,Toxostoma,Mimidae,,
 Abert's Towhee,Pipilo aberti,Pipilo,Fringillidae,,Aberts Towhee
 Black-throated Sparrow,Amphispiza bilineata,Amphispiza,Fringillidae,,Blackthroated Sparrow
-Varied Bunting,Passerina versicolor,Passerina,Fringillidae
+Varied Bunting,Passerina versicolor,Passerina,Fringillidae,,
 White-necked Raven,Corvus cryptoleucus,Corvus,Corvidae,,Whitenecked Raven
 Upland Sandpiper,Bartramia longicauda,Bartramia,Scolopacidae,,Upland Plover
-Marbled Godwit,Limosa fedoa,Limosa,Scolopacidae
+Marbled Godwit,Limosa fedoa,Limosa,Scolopacidae,,
 Long-billed Curlew,Numenius americanus,Numenius,Scolopacidae,,Longbilled Curlew
-Common Nighthawk,Chordeiles minor,Chordeiles,Caprimulgidae
+Common Nighthawk,Chordeiles minor,Chordeiles,Caprimulgidae,,
 Sharp-tailed Grouse,Pediocetes phasianellus,Pediocetes,Tetraonidae,,Sharptailed Grouse
-Greater Prairie Chicken,Tympanuchus cupido,Tympanuchus,Tetraonidae
-Lesser Prairie Chicken,Tympanuchus pallidicinctus,Tympanuchus,Tetraonidae
-Bobwhite,Colinus virginiannus,Colinus,Phasianidae
-Scaled Owl,Callipepla squamata,Callipepla,Phasianidae
-Burrowing Owl,Athene cunicularia,Athene,Strigidae
-Barn Owl,Tyto alba,Tyto,Tytonidae
-Black Vulture,Coragyps atratus,Coragyps,Cathartidae
-Turkey Vulture,Cathartes aura,Cathartes,Cathartidae
+Greater Prairie Chicken,Tympanuchus cupido,Tympanuchus,Tetraonidae,,
+Lesser Prairie Chicken,Tympanuchus pallidicinctus,Tympanuchus,Tetraonidae,,
+Bobwhite,Colinus virginiannus,Colinus,Phasianidae,,
+Scaled Owl,Callipepla squamata,Callipepla,Phasianidae,,
+Burrowing Owl,Athene cunicularia,Athene,Strigidae,,
+Barn Owl,Tyto alba,Tyto,Tytonidae,,
+Black Vulture,Coragyps atratus,Coragyps,Cathartidae,,
+Turkey Vulture,Cathartes aura,Cathartes,Cathartidae,,
 Swainson's Hawk,Buteo swainsoni,Buteo,Accipitridae,,Swainsons Hawk
 Red-tailed Hawk,Buteo jamaicensis,Buteo,Accipitridae,,Redtailed Hawk
-Ferruginous Hawk,Buteo regalis,Buteo,Accipitridae
+Ferruginous Hawk,Buteo regalis,Buteo,Accipitridae,,
 White-tailed Kite,Elanus leucurus,Elanus,Accipitridae,,Whitetailed Kite
-Aplomado Falcon,Falco femoralis,Falco,Falconidae
+Aplomado Falcon,Falco femoralis,Falco,Falconidae,,
 American Kestrel,Falco sparverius,Falco,Falconidae,,Sparrow Hawk
-Golden Eagle,Aquila chrysaetos,Aquila,Accipitridae
-Mourning Dove,Zenaida macroura,Zenaida,Columbidae
-Lesser Goldfinch,Carduelis psaltria,Carduelis,Fringillidae
-Western Kingbird,Tyrannus verticalis,Tyrannus,Tyrannidae
+Golden Eagle,Aquila chrysaetos,Aquila,Accipitridae,,
+Mourning Dove,Zenaida macroura,Zenaida,Columbidae,,
+Lesser Goldfinch,Carduelis psaltria,Carduelis,Fringillidae,,
+Western Kingbird,Tyrannus verticalis,Tyrannus,Tyrannidae,,
 Cassin's Kingbird,Tyrannus vociferans,Tyrannus,Tyrannidae,,Cassins Kingbird
-Western Meadowlark,Sturmella neglecta,Sturmella,Icteridae
-Eastern Meadowlark,Sturmella magna,Sturmella,Icteridae
+Western Meadowlark,Sturmella neglecta,Sturmella,Icteridae,,
+Eastern Meadowlark,Sturmella magna,Sturmella,Icteridae,,
 Scissor-tailed Flycatcher,Muscivora forficata,Muscivora,Tyrannidae,,Scissortailed Flycatcher
-Loggerhead Shrike,Lanius ludovicianus,Lanius,Laniidae
-Eastern Kingbird,Tyrannus tyrannus,Tyrannus,Tyrannidae
+Loggerhead Shrike,Lanius ludovicianus,Lanius,Laniidae,,
+Eastern Kingbird,Tyrannus tyrannus,Tyrannus,Tyrannidae,,
 Brewer's Blackbird,Euphagus cyanocephalus,Euphagus,Icteridae,,Brewers Blackbird
-Grasshopper Sparrow,Ammodramus savannarum,Ammodramus,Fringillidae
+Grasshopper Sparrow,Ammodramus savannarum,Ammodramus,Fringillidae,,
 Botteri's Sparrow,Aimophila botterii,Aimophila,Fringillidae,,Botteris Sparrow
 Cassin's Sparrow,Aimophila cassinii,Aimophila,Fringillidae,,Cassins Sparrow
 Rufous-winged Sparrow,Aimphila carpalis,Aimophila,Fringillidae,,Rufouswinged Sparrow
 Baird's Sparrow,Ammodramus bairdii,Ammodramus,Fringillidae,,Bairds Sparrow
-Savannah Sparrow,Passerculus sandwichensis,Passerculus,Fringillidae
-Lark Bunting,Calamospiza melanocorys,Calamospiza,Fringillidae
-Lark Sparrow,Chondestes grammacus,Chondestes,Fringillidae
+Savannah Sparrow,Passerculus sandwichensis,Passerculus,Fringillidae,,
+Lark Bunting,Calamospiza melanocorys,Calamospiza,Fringillidae,,
+Lark Sparrow,Chondestes grammacus,Chondestes,Fringillidae,,
 Clay-colored Sparrow,Spizella pallidae,Spizella,Fringillidae,,Claycolored Sparrow
-Bobolink,Dolichonyx oryzivorus,Dolichonyx,Icteridae
+Bobolink,Dolichonyx oryzivorus,Dolichonyx,Icteridae,,
 McCown's Longspur,Calcarius mccownii,Calcarius,Fringillidae,,McCowns Longspur
 Chestnut-collared Longspur,Calcarius ornatus,Calcarius,Fringillidae,,Chestnutcolored Longspur
-Horned Lark,Eremophila alpestris,Eremophila,Alaudidae
+Horned Lark,Eremophila alpestris,Eremophila,Alaudidae,,
 Sprague's Pipit,Anthus spragueii,Anthus,Motacillidae,,Spragues Pipit
 Yellow-billed Magpie,Pica nuttalli,Pica,Corvidae,,Yellowbilled Magpie
 Black-billed Magpie,Pica pica,Pica,Corvidae,,Blackbilled Magpie
