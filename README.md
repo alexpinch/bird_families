@@ -1,4 +1,4 @@
-## Bird Phylogeny
+## birdfamilies
 A website for showing broad phylogeny of birds in North America as of 1977 (Audubon-referenced)
 
 - [ ] plain text website to display bird phylogeny data
