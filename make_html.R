@@ -1,5 +1,6 @@
 # Alex Pinch
-# Generates birdfamilies.ca landing page
+# Generates birdfamilies.ca landing page, run from cmd line
+# Last edited June 30 2024
 
 library(tidyverse)
 setwd("/Users/alexpinch/GitHub/public/birdfamilies")
