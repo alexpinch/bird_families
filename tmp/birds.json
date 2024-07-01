@@ -1,0 +1,1822 @@
+[
+  {
+    "COMMON_NAME": "Northern Fulmar",
+    "LATIN_NAME": "Fulmarus glacialis",
+    "GENUS": "Fulmarus",
+    "FAMILY": "Procellariidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Ross' Gull",
+    "LATIN_NAME": " Rhodostethia rosea",
+    "GENUS": "Rhodostethia",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Sabine's Gull",
+    "LATIN_NAME": "Xema sabini",
+    "GENUS": "Xema",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Arctic Tern",
+    "LATIN_NAME": "Sterna paradisaea",
+    "GENUS": "Sterna",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Skua",
+    "LATIN_NAME": "Catharacta skua",
+    "GENUS": "Catharacta",
+    "FAMILY": "Stercorariidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Least Storm-Petrel",
+    "LATIN_NAME": "Halocyptena microsoma",
+    "GENUS": "Halocyptena",
+    "FAMILY": "Hydrobatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Pink-footed Shearwater",
+    "LATIN_NAME": "Puffinus creatopus",
+    "GENUS": "Puffinus",
+    "FAMILY": "Procellariidae ",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Sooty Shearwater",
+    "LATIN_NAME": "Puffinus griseus",
+    "GENUS": "Puffinus",
+    "FAMILY": "Procellariidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Manx Shearwater",
+    "LATIN_NAME": "Puffinus puffinus",
+    "GENUS": "Puffinus",
+    "FAMILY": "Procellariidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Flesh-footed Shearwater",
+    "LATIN_NAME": "Puffinus carneipes",
+    "GENUS": "Puffinus",
+    "FAMILY": "Procellariidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Short-tailed Shearwater",
+    "LATIN_NAME": "Puffinus tenuirostris",
+    "GENUS": "Puffinus",
+    "FAMILY": "Procellariidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "New Zealand Shearwater",
+    "LATIN_NAME": "Puffinus bulleri",
+    "GENUS": "Puffinus",
+    "FAMILY": "Procellariidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Laysan Albatross",
+    "LATIN_NAME": "Diomedea immutabilis",
+    "GENUS": "Diomedea",
+    "FAMILY": "Diomedeidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Black-footed Albatross",
+    "LATIN_NAME": "Diomedea nigripes",
+    "GENUS": "Diomedea",
+    "FAMILY": "Diomedeidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Thayer's Gull",
+    "LATIN_NAME": "Larus thayeri",
+    "GENUS": "Larus",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Herring Gull",
+    "LATIN_NAME": " Larus argentatus",
+    "GENUS": "Larus",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Glaucous-winged Gull",
+    "LATIN_NAME": "Larus glaucescens",
+    "GENUS": "Larus",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Western Gull",
+    "LATIN_NAME": "Larus occidentalis",
+    "GENUS": "Larus",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Mew Gull",
+    "LATIN_NAME": "Larus canus",
+    "GENUS": "Larus",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Heermann's Gull",
+    "LATIN_NAME": "Larus heermanni",
+    "GENUS": "Larus",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Least Tern",
+    "LATIN_NAME": "Sterna albifrons",
+    "GENUS": "Sterna",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Royal Tern",
+    "LATIN_NAME": "Sterna maxima",
+    "GENUS": "Sterna",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Elegant Tern",
+    "LATIN_NAME": "Sterna elegans",
+    "GENUS": "Sterna",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Aleutian Tern",
+    "LATIN_NAME": "Sterna aleutica",
+    "GENUS": "Sterna",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Red-billed Tropicbird",
+    "LATIN_NAME": "Phaethon aethereus",
+    "GENUS": "Phaethon",
+    "FAMILY": "Phaethontidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Magnificent Frigatebird",
+    "LATIN_NAME": "Fregata magnificens",
+    "GENUS": "Fregata",
+    "FAMILY": "Fregatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Red-footed Booby",
+    "LATIN_NAME": "Sula sula",
+    "GENUS": "Sula",
+    "FAMILY": "Sulidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Brown Booby",
+    "LATIN_NAME": "Sula leucogaster",
+    "GENUS": "Sula",
+    "FAMILY": "Sulidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Blue-footed Booby",
+    "LATIN_NAME": "Sula nebouxii",
+    "GENUS": "Sula",
+    "FAMILY": "Sulidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Kittlitz's Murrelet",
+    "LATIN_NAME": "Brachyramphus brevirostris",
+    "GENUS": "Brachyramphus",
+    "FAMILY": "Alcidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Marbled Murrelet",
+    "LATIN_NAME": "Brachyramphus marmoratus",
+    "GENUS": "Brachyramphus",
+    "FAMILY": "Alcidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Common Eider",
+    "LATIN_NAME": "Somateria mollissima",
+    "GENUS": "Somateria",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Black Scoter",
+    "LATIN_NAME": "Melanitta nigra",
+    "GENUS": "Melanitta",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "White-winged Scoter",
+    "LATIN_NAME": "Melanitta deglandi",
+    "GENUS": "Melanitta",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Surf Scoter",
+    "LATIN_NAME": "Melanitta perspicillata",
+    "GENUS": "Melanitta",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Emperor Goose",
+    "LATIN_NAME": "Philacte canagica",
+    "GENUS": "Philacte",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Brant",
+    "LATIN_NAME": "Branta bernicla",
+    "GENUS": "Branta",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Red-throated Loon",
+    "LATIN_NAME": "Gaviaa stellata",
+    "GENUS": "Gavia",
+    "FAMILY": "Gaviidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Arctic Loon",
+    "LATIN_NAME": "Gavia arctica",
+    "GENUS": "Gavia",
+    "FAMILY": "Gaviidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Snowy Plover",
+    "LATIN_NAME": "Charadrius alexandrinus",
+    "GENUS": "Charadrius",
+    "FAMILY": "Charadriidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Semipalmated Plover",
+    "LATIN_NAME": "Charadrius semipalamatus",
+    "GENUS": "Charadrius",
+    "FAMILY": "Charadriidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Dunlin",
+    "LATIN_NAME": "Calidris alpina",
+    "GENUS": "Calidris",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Sanderling",
+    "LATIN_NAME": "Calidris alba",
+    "GENUS": "Calidris",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Sharp-tailed Sandpiper",
+    "LATIN_NAME": "Calidris acuminata",
+    "GENUS": "Calidris",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Red Phalarope",
+    "LATIN_NAME": "Phalaropus fulicarius",
+    "GENUS": "Phalaropus",
+    "FAMILY": "Phalaropodidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Northern Phalarope",
+    "LATIN_NAME": "Phalaropus lobatus",
+    "GENUS": "Phalaropus",
+    "FAMILY": "Phalaropodidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Gyrfalcon",
+    "LATIN_NAME": "Falco rusticolus",
+    "GENUS": "Falco",
+    "FAMILY": "Falconidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Glaucous Gull",
+    "LATIN_NAME": "Larus hyperboreus",
+    "GENUS": "Larus",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Black-legged Kittiwake",
+    "LATIN_NAME": "Rissa tridactyla",
+    "GENUS": "Rissa",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Red-legged Kittiwake",
+    "LATIN_NAME": "Rissa brevirostris",
+    "GENUS": "Rissa",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Fork-tailed Storm-Petrel",
+    "LATIN_NAME": "Oceanodroma furicata",
+    "GENUS": "Oceanodroma",
+    "FAMILY": "Hydrobatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Leach's Storm-Petrel",
+    "LATIN_NAME": "Oceanodroma leucorhoa",
+    "GENUS": "Oceanodroma",
+    "FAMILY": "Hydrobatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Ashy Storm-Petrel",
+    "LATIN_NAME": "Oceanodroma homochroa",
+    "GENUS": "Oceanodroma",
+    "FAMILY": "Hydrobatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Black Storm-Petrel",
+    "LATIN_NAME": "Oceanodroma melania",
+    "GENUS": "Oceanodroma",
+    "FAMILY": "Hydrobatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Pelagic Cormorant",
+    "LATIN_NAME": "Phalacrocorax pelagicus",
+    "GENUS": "Phalacrocorax",
+    "FAMILY": "Phalacrocoracidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Red-faced Cormorant",
+    "LATIN_NAME": "Phalacrocorax urile",
+    "GENUS": "Phalacrocorax",
+    "FAMILY": "Phalacrocoracidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Brandt's Cormorant",
+    "LATIN_NAME": "Phalacrocorax penicillatus",
+    "GENUS": "Phalacrocorax",
+    "FAMILY": "Phalacrocoracidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Thick-billed Murre",
+    "LATIN_NAME": "Uria lomvia",
+    "GENUS": "Uria",
+    "FAMILY": "Alcidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Common Murre",
+    "LATIN_NAME": "Uria aalge",
+    "GENUS": "Uria",
+    "FAMILY": "Alcidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Pigeon Guillemot",
+    "LATIN_NAME": "Cepphus columba",
+    "GENUS": "Cepphus",
+    "FAMILY": "Alcidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Tufted Puffin",
+    "LATIN_NAME": "Lunda cirrhata",
+    "GENUS": "Lunda",
+    "FAMILY": "Alcidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Horned Puffin",
+    "LATIN_NAME": "Fratercula corniculata",
+    "GENUS": "Fratercula",
+    "FAMILY": "Alcidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Rhinoceros Auklet",
+    "LATIN_NAME": "Cerorhinca monocerata",
+    "GENUS": "Cerorhinca",
+    "FAMILY": "Alcidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Crested Auklet",
+    "LATIN_NAME": "Aethia cristatella",
+    "GENUS": "Aethia",
+    "FAMILY": "Alcidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Whiskered Auklet",
+    "LATIN_NAME": "Aethia pygmaea",
+    "GENUS": "Aethia",
+    "FAMILY": "Alcidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Cassin's Auklet",
+    "LATIN_NAME": "Ptychoramphus aleuticus",
+    "GENUS": "Ptychoramphus",
+    "FAMILY": "Alcidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Parakeet Auklet",
+    "LATIN_NAME": "Cyclorrhynchus psittacula",
+    "GENUS": "Cyclorrhynchus",
+    "FAMILY": "Alcidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Least Auklet",
+    "LATIN_NAME": "Aethia pusilla",
+    "GENUS": "Aethia",
+    "FAMILY": "Alcidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Xantus' Murrelet",
+    "LATIN_NAME": "Endomychura hypoleuca",
+    "GENUS": "Endomychura",
+    "FAMILY": "Alcidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Craveri's Murrelet",
+    "LATIN_NAME": "Endomychura craveri",
+    "GENUS": "Endomychura",
+    "FAMILY": "Alcidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Ancient Murrelet",
+    "LATIN_NAME": "Synthliboramphus antiquus",
+    "GENUS": "Synthliboramphus",
+    "FAMILY": "Alcidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Brown Pelican",
+    "LATIN_NAME": "Pelecanus occidentalis",
+    "GENUS": "Pelecanus",
+    "FAMILY": "Pelecanidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Ruddy Turnstone",
+    "LATIN_NAME": "Arenaria interpres",
+    "GENUS": "Arenaria",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Rock Sandpiper",
+    "LATIN_NAME": "Calidris ptilocnemis",
+    "GENUS": "Calidris",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Black Oystercatcher",
+    "LATIN_NAME": "Haematopus bachmani",
+    "GENUS": "Haematopus",
+    "FAMILY": "Haematopodidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Black Turnstone",
+    "LATIN_NAME": "Arenaria melanocephala",
+    "GENUS": "Arenaria",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Surfbird",
+    "LATIN_NAME": "Aphriza virgata",
+    "GENUS": "Aphriza",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Wandering Tattler",
+    "LATIN_NAME": "Heteroscelus incanus",
+    "GENUS": "Heteroscelus",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Cattle Egret",
+    "LATIN_NAME": "Bubulcus ibis",
+    "GENUS": "Bubulcus",
+    "FAMILY": "Ardeidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Gull-billed Tern",
+    "LATIN_NAME": "Gelochelidon nilotica",
+    "GENUS": "Gelochelidon",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Tufted Duck",
+    "LATIN_NAME": "Aythya fuligula",
+    "GENUS": "Aythya",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Lesser Scaup",
+    "LATIN_NAME": "Aythya affinis",
+    "GENUS": "Aythya",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Greater Scaup",
+    "LATIN_NAME": "Aythya marila",
+    "GENUS": "Aythya",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Whistling Swan",
+    "LATIN_NAME": "Olor columbianus",
+    "GENUS": "Olor",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Short-billed Dowitcher",
+    "LATIN_NAME": "Limnodromus griseus",
+    "GENUS": "Limnodromus",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Clapper Rail",
+    "LATIN_NAME": "Rallus longirostris",
+    "GENUS": "Rallus",
+    "FAMILY": "Rallidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Black Rail",
+    "LATIN_NAME": "Laterallus jamaicensis",
+    "GENUS": "Laterallus",
+    "FAMILY": "Rallidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Snowy Egret",
+    "LATIN_NAME": "Egretta thula",
+    "GENUS": "Egretta",
+    "FAMILY": "Ardeidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Great Egret",
+    "LATIN_NAME": "Casmerodius albus",
+    "GENUS": "Casmerodius",
+    "FAMILY": "Ardeidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Black-crowned Night Heron",
+    "LATIN_NAME": "Nycticorax nycticorax",
+    "GENUS": "Nycticorax",
+    "FAMILY": "Ardeidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Least Bittern",
+    "LATIN_NAME": "Ixobrychus exilis",
+    "GENUS": "Ixobrychus",
+    "FAMILY": "Ardeidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "American Bittern",
+    "LATIN_NAME": "Botaurus lentiginosus",
+    "GENUS": "Botaurus",
+    "FAMILY": "Ardeidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Wood Stork",
+    "LATIN_NAME": "Mycteria americana",
+    "GENUS": "Mycteria",
+    "FAMILY": "Ciconiidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "White-faced Ibis",
+    "LATIN_NAME": "Plegadis chihi",
+    "GENUS": "Plegadis",
+    "FAMILY": "Threskiornithidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Great Blue Heron",
+    "LATIN_NAME": "Ardea herodias",
+    "GENUS": "Ardea",
+    "FAMILY": "Ardeidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Sandhill Crane",
+    "LATIN_NAME": "Grus canadensis",
+    "GENUS": "Grus",
+    "FAMILY": "Gruidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Black Tern",
+    "LATIN_NAME": "Chlidonias niger",
+    "GENUS": "Chlidonias",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Ring-necked Duck",
+    "LATIN_NAME": "Aythya collaris",
+    "GENUS": "Aythya",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Redhead",
+    "LATIN_NAME": "Aythya americana",
+    "GENUS": "Aythya",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Canvasback",
+    "LATIN_NAME": "Aythya valisineria",
+    "GENUS": "Aythya",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Northern Shoveler",
+    "LATIN_NAME": "Anas clypeata",
+    "GENUS": "Anas",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Mallard",
+    "LATIN_NAME": "Anas platyrhynchos",
+    "GENUS": "Anas",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "American Coot",
+    "LATIN_NAME": "Fulica americana",
+    "GENUS": "Fulica",
+    "FAMILY": "Rallidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Ruddy Duck",
+    "LATIN_NAME": "Oxyura jamaicensis",
+    "GENUS": "Oxyura",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Cinnamon Teal",
+    "LATIN_NAME": "Anas cyanoptera",
+    "GENUS": "Anas",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "European Wigeon",
+    "LATIN_NAME": "Anas penelope",
+    "GENUS": "Anas",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "American Wigeon",
+    "LATIN_NAME": "Anas americana",
+    "GENUS": "Anas",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Blue-winged Teal",
+    "LATIN_NAME": "Anas discors",
+    "GENUS": "Anas",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Green-winged Teal",
+    "LATIN_NAME": "Anas crecca",
+    "GENUS": "Anas",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Fulvous Whistling-Duck",
+    "LATIN_NAME": "Dendrocygna bicolor",
+    "GENUS": "Dendrocygna",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Mexican Duck",
+    "LATIN_NAME": "Anas diazi",
+    "GENUS": "Anas",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Pintail",
+    "LATIN_NAME": "Anas acuta",
+    "GENUS": "Anas",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Gadwall",
+    "LATIN_NAME": "Anas strepera",
+    "GENUS": "Anas",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Trumpeter Swan",
+    "LATIN_NAME": "Olor buccinator",
+    "GENUS": "Olor",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Ross' Goose",
+    "LATIN_NAME": "Chen rossii",
+    "GENUS": "Chen",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Snow Goose",
+    "LATIN_NAME": "Chen caerulescens",
+    "GENUS": "Chen",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Canada Goose",
+    "LATIN_NAME": "Branta canadensis",
+    "GENUS": "Branta",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "White-fronted Goose",
+    "LATIN_NAME": "Anser albifrons",
+    "GENUS": "Anser",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Wilson's Phalarope",
+    "LATIN_NAME": "Steganopus tricolor",
+    "GENUS": "Steganopus",
+    "FAMILY": "Phalaropodidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Common Snipe",
+    "LATIN_NAME": "Capella gallinago",
+    "GENUS": "Capella",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Willet",
+    "LATIN_NAME": "Catoptrophorus semipalmatus",
+    "GENUS": "Catoptrophorus",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Black-necked Stilt",
+    "LATIN_NAME": "Himantopus mexicanus",
+    "GENUS": "Himantopus",
+    "FAMILY": "Recurvirostridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "American Avocet",
+    "LATIN_NAME": "Recurvirostra americana",
+    "GENUS": "Recurvirostra",
+    "FAMILY": "Recurvirostridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Virginia Rail",
+    "LATIN_NAME": "Rallus limicola",
+    "GENUS": "Rallus",
+    "FAMILY": "Rallidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Yellow Rail",
+    "LATIN_NAME": "Coturnicops noveboracensis",
+    "GENUS": "Coturnicops",
+    "FAMILY": "Rallidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Sora",
+    "LATIN_NAME": "Porzana carolina",
+    "GENUS": "Porzana",
+    "FAMILY": "Rallidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Common Gallinule",
+    "LATIN_NAME": "Gallinula chloropus",
+    "GENUS": "Gallinula",
+    "FAMILY": "Rallidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Short-eared Owl",
+    "LATIN_NAME": "Asio flammeus",
+    "GENUS": "Asio",
+    "FAMILY": "Strigidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Marsh Hawk",
+    "LATIN_NAME": "Circus cyaneus",
+    "GENUS": "Circus",
+    "FAMILY": "Accipitridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Common Yellowthroat",
+    "LATIN_NAME": "Geothlypis trichas",
+    "GENUS": "Geothlypis",
+    "FAMILY": "Parulidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Yellow-headed Blackbird",
+    "LATIN_NAME": "Xanthocephalus xanthocephalus",
+    "GENUS": "Xanthocephalus",
+    "FAMILY": "Icteridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Long-billed Marsh Wren",
+    "LATIN_NAME": "Cistothorus palustris",
+    "GENUS": "Cistothorus",
+    "FAMILY": "Troglodytidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Red-winged Blackbird",
+    "LATIN_NAME": "Agelaius phoeniceus",
+    "GENUS": "Agelaius",
+    "FAMILY": "Icteridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Tricolored Blackbird",
+    "LATIN_NAME": "Agelaius tricolor",
+    "GENUS": "Agelaius",
+    "FAMILY": "Icteridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Green Heron",
+    "LATIN_NAME": "Butorides striatus",
+    "GENUS": "Butorides",
+    "FAMILY": "Ardeidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "California Gull",
+    "LATIN_NAME": "Larus californicus",
+    "GENUS": "Larus",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Ring-billed Gull",
+    "LATIN_NAME": "Larus delawarensis",
+    "GENUS": "Larus",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Bonaparte's Gull",
+    "LATIN_NAME": "Larus philadelphia",
+    "GENUS": "Larus",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Franklin's Gull",
+    "LATIN_NAME": "Larus pipixcan",
+    "GENUS": "Larus",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Common Tern",
+    "LATIN_NAME": "Sterna hirundo",
+    "GENUS": "Sterna",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Caspian Tern",
+    "LATIN_NAME": "Sterna caspia",
+    "GENUS": "Sterna",
+    "FAMILY": "Laridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Double-crested Cormorant",
+    "LATIN_NAME": "Phalacrocorax auritus",
+    "GENUS": "Phalacrocorax",
+    "FAMILY": "Phalacrocoracidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Red-breasted Merganser",
+    "LATIN_NAME": "Mergus serrator",
+    "GENUS": "Mergus",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Common Merganser",
+    "LATIN_NAME": "Mergus merganser",
+    "GENUS": "Mergus",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Hooded Merganser",
+    "LATIN_NAME": "Lophodytes cucullatus",
+    "GENUS": "Lophodytes",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Bufflehead",
+    "LATIN_NAME": "Bucephala albeola",
+    "GENUS": "Bucephala",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Barrow's Goldeneye",
+    "LATIN_NAME": "Bucephala islandica",
+    "GENUS": "Bucephala",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Common Goldeneye",
+    "LATIN_NAME": "Bucephala clangula",
+    "GENUS": "Bucephala",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Wood Duck",
+    "LATIN_NAME": "Aix sponsa",
+    "GENUS": "Aix",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Harlequin Duck",
+    "LATIN_NAME": "Histrionicus histrionicus",
+    "GENUS": "Histrionicus",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "White Pelican",
+    "LATIN_NAME": "Pelecanus erythrorhynchos",
+    "GENUS": "Pelecanus",
+    "FAMILY": "Pelecanidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Common Loon",
+    "LATIN_NAME": "Gavia immer",
+    "GENUS": "Gavia",
+    "FAMILY": "Gaviidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Western Grebe",
+    "LATIN_NAME": "Aechmophorus occidentalis",
+    "GENUS": "Aechmophorus",
+    "FAMILY": "Podicipedidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Red-necked Grebe",
+    "LATIN_NAME": "Podiceps grisegena",
+    "GENUS": "Podiceps",
+    "FAMILY": "Podicipedidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Pied-billed Grebe",
+    "LATIN_NAME": "Podilymbus podiceps",
+    "GENUS": "Podilymbus",
+    "FAMILY": "Podicipedidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Eared Grebe",
+    "LATIN_NAME": "Podiceps nigricollis",
+    "GENUS": "Podiceps",
+    "FAMILY": "Podicipedidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Horned Grebe",
+    "LATIN_NAME": "Podiceps auritus",
+    "GENUS": "Podiceps",
+    "FAMILY": "Podicipedidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Killdeer",
+    "LATIN_NAME": "Charadrius vociferus",
+    "GENUS": "Charadrius",
+    "FAMILY": "Charadriidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Solitary Sandpiper",
+    "LATIN_NAME": "Tringa solitaria",
+    "GENUS": "Tringa",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Spotted Sandpiper",
+    "LATIN_NAME": "Actitis macularia",
+    "GENUS": "Actitis",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Pectoral Sandpiper",
+    "LATIN_NAME": "Calidris melanotos",
+    "GENUS": "Calidris",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Osprey",
+    "LATIN_NAME": "Pandion haliaetus",
+    "GENUS": "Pandion",
+    "FAMILY": "Pandionidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Bald Eagle",
+    "LATIN_NAME": "Haliaeetus leucocephalus",
+    "GENUS": "Haliaeetus",
+    "FAMILY": "Accipitridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Rough-winged Swallow",
+    "LATIN_NAME": "Stelgidopteryx ruficollis",
+    "GENUS": "Stelgidopteryx",
+    "FAMILY": "Hirundinidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Bank Swallow",
+    "LATIN_NAME": "Riparia riparia",
+    "GENUS": "Riparia",
+    "FAMILY": "Hirundinidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Tree Swallow",
+    "LATIN_NAME": "Iridoprocne bicolor",
+    "GENUS": "Iridoprocne",
+    "FAMILY": "Hirundinidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Dipper",
+    "LATIN_NAME": "Cinclus mexicanus",
+    "GENUS": "Cinclus",
+    "FAMILY": "Cinclidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Belted Kingfisher",
+    "LATIN_NAME": "Megaceryle alcyon",
+    "GENUS": "Megaceryle",
+    "FAMILY": "Alcedinidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Green Kingfisher",
+    "LATIN_NAME": "Chloroceryle americana",
+    "GENUS": "Chloroceryle",
+    "FAMILY": "Alcedinidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Black Phoebe",
+    "LATIN_NAME": "Sayornis nigricans",
+    "GENUS": "Sayornis",
+    "FAMILY": "Tyrannidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Parasitic Jaeger",
+    "LATIN_NAME": "Stercocarius parasiticus",
+    "GENUS": "Stercocarius",
+    "FAMILY": "Stercorariidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Pomarine Jaeger",
+    "LATIN_NAME": "Stercocarius pomarinus",
+    "GENUS": "Stercocarius",
+    "FAMILY": "Stercorariidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Oldsquaw",
+    "LATIN_NAME": "Clangula hyemalis",
+    "GENUS": "Clangula",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "King Eider",
+    "LATIN_NAME": "Somateria spectabilis",
+    "GENUS": "Somateria",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Spectacled Eider",
+    "LATIN_NAME": "Somateria fischeri",
+    "GENUS": "Somateria",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Steller's Eider",
+    "LATIN_NAME": "Polysticta stelleri",
+    "GENUS": "Polysticta",
+    "FAMILY": "Anatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Yellow-billed Loon",
+    "LATIN_NAME": "Gavia adamsii",
+    "GENUS": "Gavia",
+    "FAMILY": "Gaviidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Least Sandpiper",
+    "LATIN_NAME": "Calidris minutilla",
+    "GENUS": "Calidris",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Semipalmated Sandpiper",
+    "LATIN_NAME": "Calidris pusilla",
+    "GENUS": "Calidris",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Rufous-necked Sandpiper",
+    "LATIN_NAME": "Calidris ruficollis",
+    "GENUS": "Calidris",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Long-billed Dowitcher",
+    "LATIN_NAME": "Limnodromnus scolopaceus",
+    "GENUS": "Limnodromnus",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Bar-tailed Godwit",
+    "LATIN_NAME": "Limosa lapponica",
+    "GENUS": "Limosa",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Lapland Longspur",
+    "LATIN_NAME": "Calcarius lapponicus",
+    "GENUS": "Calcarius",
+    "FAMILY": "Fringillidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Lesser Nighthawk",
+    "LATIN_NAME": "Chordeiles acutipennis",
+    "GENUS": "Chordeiles",
+    "FAMILY": "Caprimulgidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Roadrunner",
+    "LATIN_NAME": "Geococcyx californianus",
+    "GENUS": "Geococcyx",
+    "FAMILY": "Cuculidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Gambel's Quail",
+    "LATIN_NAME": "Lophortyx gambelii",
+    "GENUS": "Lophortyx",
+    "FAMILY": "Phasianidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Elf Owl",
+    "LATIN_NAME": "Micrathene whitneyi",
+    "GENUS": "Micrathene",
+    "FAMILY": "Strigidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Ferruginous Owl",
+    "LATIN_NAME": "Glaucidium brasilianum",
+    "GENUS": "Glaucidium",
+    "FAMILY": "Strigidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Caracara",
+    "LATIN_NAME": "Caracara cheriway",
+    "GENUS": "Caracara",
+    "FAMILY": "Falconidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Harris' Hawk",
+    "LATIN_NAME": "Parabuteo unicinctus",
+    "GENUS": "Parabuteo",
+    "FAMILY": "Accipitridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Ground Dove",
+    "LATIN_NAME": "Columbina passerina",
+    "GENUS": "Columbina",
+    "FAMILY": "Columbidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "White-winged Dove",
+    "LATIN_NAME": "Zenaida asiatica",
+    "GENUS": "Zenaida",
+    "FAMILY": "Columbidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Ladder-backed Woodpecker",
+    "LATIN_NAME": "Picoides scalaris",
+    "GENUS": "Picoides",
+    "FAMILY": "Picidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Gila Woodpecer",
+    "LATIN_NAME": "Melanerpes uropygialis",
+    "GENUS": "Melanerpes",
+    "FAMILY": "Picidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Broad-billed Hummingbird",
+    "LATIN_NAME": "Cyanthus latirostris",
+    "GENUS": "Cyanthus",
+    "FAMILY": "Trochilidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Costa's Hummingbird",
+    "LATIN_NAME": "Calypte costae",
+    "GENUS": "Calypte",
+    "FAMILY": "Trochilidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Lucifer Hummingbird",
+    "LATIN_NAME": "Colathorax lucifer",
+    "GENUS": "Colathorax",
+    "FAMILY": "Trochilidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Verdin",
+    "LATIN_NAME": "Auriparus flaviceps",
+    "GENUS": "Auriparus",
+    "FAMILY": "Paridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Lucy's Warbler",
+    "LATIN_NAME": "Vermivora luciae",
+    "GENUS": "Vermivora",
+    "FAMILY": "Parulidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Vermilion Flycatcher",
+    "LATIN_NAME": "Pyrocephalus rubinus",
+    "GENUS": "Pyrocephalus",
+    "FAMILY": "Tyrannidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Pyrrhuloxia",
+    "LATIN_NAME": "Cardinalis sinuatus",
+    "GENUS": "Cardinalis",
+    "FAMILY": "Fringillidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Phainopepla",
+    "LATIN_NAME": "Phainopepla nitens",
+    "GENUS": "Phainopepla",
+    "FAMILY": "Ptilogonatidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Black-tailed Gnatcatcher",
+    "LATIN_NAME": "Polioptila melanura",
+    "GENUS": "Polioptila",
+    "FAMILY": "Sylviidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Wied's Crested Flycatcher",
+    "LATIN_NAME": "Myiarchus tyrannulus",
+    "GENUS": "Myiarchus",
+    "FAMILY": "Tyrannidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Cactus Wren",
+    "LATIN_NAME": "Campylorhychus brunneicapillus",
+    "GENUS": "Campylorhychus",
+    "FAMILY": "Troglodytidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Bendire's Thrasher",
+    "LATIN_NAME": "Toxostoma bendirei",
+    "GENUS": "Toxostoma",
+    "FAMILY": "Mimidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Curve-billed Thrasher",
+    "LATIN_NAME": "Toxostoma curvirostre",
+    "GENUS": "Toxostoma",
+    "FAMILY": "Mimidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Le Conte's Thrasher",
+    "LATIN_NAME": "Toxostoma leocontei",
+    "GENUS": "Toxostoma",
+    "FAMILY": "Mimidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Crissal Thrasher",
+    "LATIN_NAME": "Toxostoma dorsale",
+    "GENUS": "Toxostoma",
+    "FAMILY": "Mimidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Abert's Towhee",
+    "LATIN_NAME": "Pipilo aberti",
+    "GENUS": "Pipilo",
+    "FAMILY": "Fringillidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Black-throated Sparrow",
+    "LATIN_NAME": "Amphispiza bilineata",
+    "GENUS": "Amphispiza",
+    "FAMILY": "Fringillidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Varied Bunting",
+    "LATIN_NAME": "Passerina versicolor",
+    "GENUS": "Passerina",
+    "FAMILY": "Fringillidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "White-necked Raven",
+    "LATIN_NAME": "Corvus cryptoleucus",
+    "GENUS": "Corvus",
+    "FAMILY": "Corvidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Upland Sandpiper",
+    "LATIN_NAME": "Bartramia longicauda",
+    "GENUS": "Bartramia",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Marbled Godwit",
+    "LATIN_NAME": "Limosa fedoa",
+    "GENUS": "Limosa",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Long-billed Curlew",
+    "LATIN_NAME": "Numenius americanus",
+    "GENUS": "Numenius",
+    "FAMILY": "Scolopacidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Common Nighthawk",
+    "LATIN_NAME": "Chordeiles minor",
+    "GENUS": "Chordeiles",
+    "FAMILY": "Caprimulgidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Sharp-tailed Grouse",
+    "LATIN_NAME": "Pediocetes phasianellus",
+    "GENUS": "Pediocetes",
+    "FAMILY": "Tetraonidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Greater Prairie Chicken",
+    "LATIN_NAME": "Tympanuchus cupido",
+    "GENUS": "Tympanuchus",
+    "FAMILY": "Tetraonidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Lesser Prairie Chicken",
+    "LATIN_NAME": "Tympanuchus pallidicinctus",
+    "GENUS": "Tympanuchus",
+    "FAMILY": "Tetraonidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Bobwhite",
+    "LATIN_NAME": "Colinus virginiannus",
+    "GENUS": "Colinus",
+    "FAMILY": "Phasianidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Scaled Owl",
+    "LATIN_NAME": "Callipepla squamata",
+    "GENUS": "Callipepla",
+    "FAMILY": "Phasianidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Burrowing Owl",
+    "LATIN_NAME": "Athene cunicularia",
+    "GENUS": "Athene",
+    "FAMILY": "Strigidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Barn Owl",
+    "LATIN_NAME": "Tyto alba",
+    "GENUS": "Tyto",
+    "FAMILY": "Tytonidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Black Vulture",
+    "LATIN_NAME": "Coragyps atratus",
+    "GENUS": "Coragyps",
+    "FAMILY": "Cathartidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Turkey Vulture",
+    "LATIN_NAME": "Cathartes aura",
+    "GENUS": "Cathartes",
+    "FAMILY": "Cathartidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Swainson's Hawk",
+    "LATIN_NAME": "Buteo swainsoni",
+    "GENUS": "Buteo",
+    "FAMILY": "Accipitridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Red-tailed Hawk",
+    "LATIN_NAME": "Buteo jamaicensis",
+    "GENUS": "Buteo",
+    "FAMILY": "Accipitridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Ferruginous Hawk",
+    "LATIN_NAME": "Buteo regalis",
+    "GENUS": "Buteo",
+    "FAMILY": "Accipitridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "White-tailed Kite",
+    "LATIN_NAME": "Elanus leucurus",
+    "GENUS": "Elanus",
+    "FAMILY": "Accipitridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Aplomado Falcon",
+    "LATIN_NAME": "Falco femoralis",
+    "GENUS": "Falco",
+    "FAMILY": "Falconidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "American Kestrel",
+    "LATIN_NAME": "Falco sparverius",
+    "GENUS": "Falco",
+    "FAMILY": "Falconidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Golden Eagle",
+    "LATIN_NAME": "Aquila chrysaetos",
+    "GENUS": "Aquila",
+    "FAMILY": "Accipitridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Mourning Dove",
+    "LATIN_NAME": "Zenaida macroura",
+    "GENUS": "Zenaida",
+    "FAMILY": "Columbidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Lesser Goldfinch",
+    "LATIN_NAME": "Carduelis psaltria",
+    "GENUS": "Carduelis",
+    "FAMILY": "Fringillidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Western Kingbird",
+    "LATIN_NAME": "Tyrannus verticalis",
+    "GENUS": "Tyrannus",
+    "FAMILY": "Tyrannidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Cassin's Kingbird",
+    "LATIN_NAME": "Tyrannus vociferans",
+    "GENUS": "Tyrannus",
+    "FAMILY": "Tyrannidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Western Meadowlark",
+    "LATIN_NAME": "Sturmella neglecta",
+    "GENUS": "Sturmella",
+    "FAMILY": "Icteridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Eastern Meadowlark",
+    "LATIN_NAME": "Sturmella magna",
+    "GENUS": "Sturmella",
+    "FAMILY": "Icteridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Scissor-tailed Flycatcher",
+    "LATIN_NAME": "Muscivora forficata",
+    "GENUS": "Muscivora",
+    "FAMILY": "Tyrannidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Loggerhead Shrike",
+    "LATIN_NAME": "Lanius ludovicianus",
+    "GENUS": "Lanius",
+    "FAMILY": "Laniidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Eastern Kingbird",
+    "LATIN_NAME": "Tyrannus tyrannus",
+    "GENUS": "Tyrannus",
+    "FAMILY": "Tyrannidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Brewer's Blackbird",
+    "LATIN_NAME": "Euphagus cyanocephalus",
+    "GENUS": "Euphagus",
+    "FAMILY": "Icteridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Grasshopper Sparrow",
+    "LATIN_NAME": "Ammodramus savannarum",
+    "GENUS": "Ammodramus",
+    "FAMILY": "Fringillidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Botteri's Sparrow",
+    "LATIN_NAME": "Aimophila botterii",
+    "GENUS": "Aimophila",
+    "FAMILY": "Fringillidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Cassin's Sparrow",
+    "LATIN_NAME": "Aimophila cassinii",
+    "GENUS": "Aimophila",
+    "FAMILY": "Fringillidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Rufous-winged Sparrow",
+    "LATIN_NAME": "Aimphila carpalis",
+    "GENUS": "Aimophila",
+    "FAMILY": "Fringillidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Baird's Sparrow",
+    "LATIN_NAME": "Ammodramus bairdii",
+    "GENUS": "Ammodramus",
+    "FAMILY": "Fringillidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Savannah Sparrow",
+    "LATIN_NAME": "Passerculus sandwichensis",
+    "GENUS": "Passerculus",
+    "FAMILY": "Fringillidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Lark Bunting",
+    "LATIN_NAME": "Calamospiza melanocorys",
+    "GENUS": "Calamospiza",
+    "FAMILY": "Fringillidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Lark Sparrow",
+    "LATIN_NAME": "Chondestes grammacus",
+    "GENUS": "Chondestes",
+    "FAMILY": "Fringillidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Clay-colored Sparrow",
+    "LATIN_NAME": "Spizella pallidae",
+    "GENUS": "Spizella",
+    "FAMILY": "Fringillidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Bobolink",
+    "LATIN_NAME": "Dolichonyx oryzivorus",
+    "GENUS": "Dolichonyx",
+    "FAMILY": "Icteridae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "McCown's Longspur",
+    "LATIN_NAME": "Calcarius mccownii",
+    "GENUS": "Calcarius",
+    "FAMILY": "Fringillidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Chestnut-collared Longspur",
+    "LATIN_NAME": "Calcarius ornatus",
+    "GENUS": "Calcarius",
+    "FAMILY": "Fringillidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Horned Lark",
+    "LATIN_NAME": "Eremophila alpestris",
+    "GENUS": "Eremophila",
+    "FAMILY": "Alaudidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Sprague's Pipit",
+    "LATIN_NAME": "Anthus spragueii",
+    "GENUS": "Anthus",
+    "FAMILY": "Motacillidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Yellow-billed Magpie",
+    "LATIN_NAME": "Pica nuttalli",
+    "GENUS": "Pica",
+    "FAMILY": "Corvidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Black-billed Magpie",
+    "LATIN_NAME": "Pica pica",
+    "GENUS": "Pica",
+    "FAMILY": "Corvidae",
+    "ORDER": ""
+  },
+  {
+    "COMMON_NAME": "Great-tailed Grackle",
+    "LATIN_NAME": "Quiscalus mexicanus",
+    "GENUS": "Quiscalus",
+    "FAMILY": "Icteridae",
+    "ORDER": ""
+  }
+]
