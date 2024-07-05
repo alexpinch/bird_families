@@ -3,7 +3,7 @@
 # Last edited June 30 2024
 
 library(tidyverse)
-setwd("/Users/alexpinch/GitHub/private/birdfamilies")
+setwd("/Users/alexpinch/GitHub/public/birdfamilies")
 data <- read_csv("birds.csv")
 
 # reformat csv data to hierarchical structure
