@@ -3,4 +3,5 @@ A website for showing broad phylogeny of Western North America birds, taken from
 
 - [x] plain text website to display bird phylogeny data
 - [ ] Restructure to be top down? Or put each family in a div? Include orders?
+- [ ] Link below each bird: Wiki/Audubon/iNat/eBird
 - [ ] Draggable tree elements
