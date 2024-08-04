@@ -1,15 +1,14 @@
 # Alex Pinch
-# Generates birdfamilies.ca landing page, run from cmd line
-# Last edited June 30 2024
+# Last edited Aug 3 2024
 
 library(tidyverse)
-setwd("/Users/alexpinch/GitHub/public/birdfamilies")
+setwd("/Users/alexpinch/GitHub/public/bird_families")
 data <- read_csv("birds.csv")
 
 # reformat csv data to hierarchical structure
 tree <- data %>%
   group_by(FAMILY, GENUS) %>%
-  reframe(SPECIES = paste(COMMON_NAME, "(", LATIN_NAME, ")", sep = ""), .groups = "drop") # reframe instead of summarize
+  reframe(SPECIES = paste(COMMON_NAME, " (", LATIN_NAME, ")", sep = ""), .groups = "drop") # reframe instead of summarize
 
 # convert to nested lists, chatGPT gave
 build_html_list <- function(df) {
@@ -51,9 +50,7 @@ html_content <- paste0("
 <!DOCTYPE html>
 <html lang='en'>
 <head>
-    <meta charset='UTF-8'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-    <title>birdfamilies</title>
+    <title>1977 bird families</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -83,7 +80,7 @@ html_content <- paste0("
     </style>
 </head>
 <body>
-    <h1>birdfamilies</h1>
+    <h1>bird families according to the 1977 Audubon</h1>
     ", html_list, "
 </body>
 </html>
